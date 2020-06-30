@@ -1,5 +1,5 @@
-## 6-js-string&array-methods
-**Tasks:**
+# String- & Array-Methods in JavaScript
+## Tasks
 * Write a JavaScript function to test if the first character of a string is uppercase or not
 * Write a JavaScript function to count the number of words in a string
 * Write a JavaScript function to split a string and convert it into an array of words
