@@ -1,4 +1,4 @@
-# String- & Array-Methods in JavaScript
+# String & Array Methods in JavaScript
 
 ### Exercise:
 
